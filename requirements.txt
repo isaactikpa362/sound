@@ -1,4 +1,9 @@
 streamlit
-SpeechRecognition
-pocketsphinx
-# fais le code des bibliothèques a installer sur ubuntu pour ce code
+speechrecognition
+transformers
+librosa
+numpy
+soundfile
+pyaudio
+pydub
+pandas
